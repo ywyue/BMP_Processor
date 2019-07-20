@@ -21,7 +21,7 @@ Coursework for *Map Algebra (2018fall)*
   <img src="https://github.com/ywyue/BMP_Processor/blob/master/figures/7.getBuffer.png" width="500px" align=center /><br/>
  * 8.Adhesion transform<br/>
   <img src="https://github.com/ywyue/BMP_Processor/blob/master/figures/8.Adhesion_Transform.png" width="500px" align=center /><br/>
- * 9.Get axi<br/>
+ * 9.Get axis<br/>
   <img src="https://github.com/ywyue/BMP_Processor/blob/master/figures/9.getAxis.png" width="500px" align=center /><br/>
  * 10.Get Delauney<br/>
   <img src="https://github.com/ywyue/BMP_Processor/blob/master/figures/10.getDelauney.png" width="500px" align=center /><br/>
