@@ -5,8 +5,8 @@ Coursework for *Map Algebra (2018fall)*
  :-: | :-:
  Visual studio 2017 | C++| 
 
- * 1.Anti-color<br/>
-  <img src="https://github.com/ywyue/BMP_Processor/blob/master/figures/1.Anti-color.png" width="500px" align=center /><br/>
+ * 1.Invert color<br/>
+  <img src="https://github.com/ywyue/BMP_Processor/blob/master/figures/1.Invert_color.png" width="500px" align=center /><br/>
  * 2.Convert 256 bitmap to bitmap<br/>
   <img src="https://github.com/ywyue/BMP_Processor/blob/master/figures/2.256to32.png" width="500px" align=center /><br/>
  * 3.Overlay two bitmaps<br/>
