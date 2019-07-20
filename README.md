@@ -1,2 +1,2 @@
 # BMP_Processor
-coursework for [Map Algebra](2018fall)
+coursework for *Map Algebra (2018fall)*

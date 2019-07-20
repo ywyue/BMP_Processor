@@ -1,0 +1,62 @@
+﻿  bmpProcessFunc.cpp
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\distemplate.h(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\distemplate.h(66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(80): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(230): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(243): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(257): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(258): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(260): warning C4244: “+=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(278): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(286): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(371): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(376): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(401): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(452): warning C4305: “=”: 从“double”到“float”截断
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(460): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(462): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(474): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(475): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(504): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(505): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(546): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(557): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(706): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(710): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(718): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(721): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(727): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(729): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(746): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(755): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(764): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(801): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(805): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(814): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(817): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(824): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(826): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(828): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(829): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(839): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(857): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(868): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(877): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(910): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(913): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(917): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(986): warning C4305: “=”: 从“double”到“float”截断
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(1006): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(1034): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(1060): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(1062): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(1233): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yyw\source\repos\2016301110013岳远紊-地图代数代码\map_algebra1\map_algebra\bmpprocessfunc.cpp(1236): warning C4018: “<”: 有符号/无符号不匹配
+  Map_Algebra.vcxproj -> C:\Users\YYW\source\repos\2016301110013岳远紊-地图代数代码\Map_Algebra1\Debug\Map_Algebra.exe
