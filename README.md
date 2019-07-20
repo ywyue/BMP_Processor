@@ -1,5 +1,5 @@
 # BMP_Processor
-coursework for *Map Algebra (2018fall)*
+Coursework for *Map Algebra (2018fall)*
 
  IDE | Language 
  :-: | :-:
